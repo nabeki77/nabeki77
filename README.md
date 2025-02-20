@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabeki77
-- 👀 I’m interested in pythonc
+- 👀 I’m interested in python
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me @nabeki77 in tg 
